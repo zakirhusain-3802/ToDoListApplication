@@ -11,5 +11,10 @@ Tech Stack
 - Calligraphy for fonts
 - Butterknife for binding the ids
 - Room database
-- Glide
 - Calendar View
+- 
+![WhatsApp Image 2023-08-30 at 10 24 01 AM](https://github.com/zakirhusain-3802/ToDoListApplication/assets/66136416/adbd1199-20a9-48a8-b59e-228cfb15019c)
+
+![WhatsApp Image 2023-08-30 at 10 24 00 AM](https://github.com/zakirhusain-3802/ToDoListApplication/assets/66136416/5da2d5ad-7be2-4d40-a329-61f5ed5eecc1)
+![WhatsApp Image 2023-08-30 at 10 23 58 AM](https://github.com/zakirhusain-3802/ToDoListApplication/assets/66136416/31706170-daf7-4ca5-9e85-8c5d6c282dab)
+
